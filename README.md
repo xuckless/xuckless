@@ -35,9 +35,9 @@ A Zig backend framework and a native server engine for Node and Python.
 <img src="https://img.shields.io/badge/benchmarked-HttpArena-e45858?style=flat-square"/>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/xuckless/pixl-web/main/public/engine/og.png" alt="PIXL Engine"/>
+<a href="https://engine.pixlfoundation.com"><img src="https://raw.githubusercontent.com/xuckless/pixl-web/main/public/engine/og.png" alt="PIXL Engine"/></a>
 
-### 🎞️ PIXL Engine
+### 🎞️ [PIXL Engine](https://engine.pixlfoundation.com)
 A Rust image engine that never guesses: every call returns a receipt of what it did.
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -54,10 +54,7 @@ Experienced in **agentic workflows**, **agent development** and **prompt enginee
 To show it, I built my own coding harness from scratch, **[EveryAI](https://github.com/xuckless/everyai-mono)**,
 made to compete with opencode and the other open-source harnesses.
 
-<img src="https://img.shields.io/badge/agentic%20workflows-7f5af0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/prompt%20engineering-2cb67d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/harness%20from%20scratch-f7a41d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/every%20model-OpenRouter-6467F2?style=for-the-badge"/>
+<p><img src="https://img.shields.io/badge/agentic%20workflows-7f5af0?style=for-the-badge"/> <img src="https://img.shields.io/badge/prompt%20engineering-2cb67d?style=for-the-badge"/> <img src="https://img.shields.io/badge/harness%20from%20scratch-f7a41d?style=for-the-badge"/> <img src="https://img.shields.io/badge/every%20model-OpenRouter-6467F2?style=for-the-badge"/></p>
 
 ## 🚀 Built on top
 
