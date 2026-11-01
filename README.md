@@ -48,6 +48,17 @@ A Rust image engine that never guesses: every call returns a receipt of what it 
 </tr>
 </table>
 
+## 🤖 AI agents
+
+Experienced in **agentic workflows**, **agent development** and **prompt engineering**.
+To show it, I built my own coding harness from scratch, **[EveryAI](https://github.com/xuckless/everyai-mono)**,
+made to compete with opencode and the other open-source harnesses.
+
+<img src="https://img.shields.io/badge/agentic%20workflows-7f5af0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/prompt%20engineering-2cb67d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/harness%20from%20scratch-f7a41d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/every%20model-OpenRouter-6467F2?style=for-the-badge"/>
+
 ## 🚀 Built on top
 
 <table>
