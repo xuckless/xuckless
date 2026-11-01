@@ -111,9 +111,7 @@ made to compete with opencode and the other open-source harnesses.
 
 ## 🤝 Open source
 
-<a href="https://github.com/Arwalk/zig-protobuf/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/zig--protobuf-decoder%20hardening%20%C2%B7%20merged-8957e5?style=flat-square&logo=github"/></a>
-<a href="https://github.com/the-benchmarker/web-frameworks/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/the--benchmarker-4%20PRs%20merged-8957e5?style=flat-square&logo=github"/></a>
-<img src="https://img.shields.io/badge/forks-zio%20%C2%B7%20pg.zig%20%C2%B7%20nghttp2%20%C2%B7%20ngtcp2-30363d?style=flat-square&logo=github"/>
+<p><a href="https://github.com/lalinsky/zio/pulls?q=is%3Apr+author%3Axuckless"><img src="https://img.shields.io/badge/zio-async%20runtime%20%C2%B7%201%20merged%2C%203%20in%20review-8957e5?style=flat-square&logo=github"/></a> <a href="https://github.com/lalinsky/dusty/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/dusty-HTTP%20%26%20TLS%20%C2%B7%204%20merged-8957e5?style=flat-square&logo=github"/></a> <a href="https://github.com/Arwalk/zig-protobuf/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/zig--protobuf-decoder%20hardening%20%C2%B7%20merged-8957e5?style=flat-square&logo=github"/></a> <a href="https://github.com/the-benchmarker/web-frameworks/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/the--benchmarker-4%20merged-8957e5?style=flat-square&logo=github"/></a> <a href="https://github.com/MDA2AV/HttpArena/pulls?q=is%3Apr+author%3Axuckless+is%3Amerged"><img src="https://img.shields.io/badge/HttpArena-Anole%20entry%20%C2%B7%20merged-8957e5?style=flat-square&logo=github"/></a> <a href="https://github.com/karlseguin/pg.zig/pulls?q=is%3Apr+author%3Axuckless+is%3Aopen"><img src="https://img.shields.io/badge/pg.zig-timeouts%20%26%20cancel%20%C2%B7%20in%20review-30363d?style=flat-square&logo=github"/></a></p>
 
 ## 🧰 Toolbox
 
