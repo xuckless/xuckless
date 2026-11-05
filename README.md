@@ -68,7 +68,7 @@ made to compete with opencode and the other open-source harnesses.
 <a href="https://playroom.pixlfoundation.com"><img src="https://img.shields.io/badge/website-%E2%86%92-7f5af0?style=flat-square"/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/everyai-mono"><img src="https://raw.githubusercontent.com/xuckless/everyai-mono/main/docs/readme/code.webp" alt="EveryAI"/></a>
+<a href="https://github.com/xuckless/everyai-mono"><img src="https://raw.githubusercontent.com/xuckless/everyai-mono/main/docs/readme/console.webp" alt="EveryAI"/></a>
 
 **[EveryAI](https://github.com/xuckless/everyai-mono)** · a Claude Code / Codex-style coding agent for every OpenRouter model<br/>
 <img src="https://img.shields.io/badge/Flutter-6%20platforms-02569B?style=flat-square&logo=flutter&logoColor=white"/>
