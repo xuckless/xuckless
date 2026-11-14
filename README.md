@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:7f5af0,50:2cb67d,100:f7a41d&text=Syed%20Ali&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=I%20build%20the%20engine,%20then%20the%20product%20on%20top%20of%20it.&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Syed Ali: I build the engine, then the product on top of it."/>
+<img src="assets/header.svg" width="100%" alt="Syed Ali: Zig servers, Rust image engines, and the apps on top."/>
 
 <a href="https://github.com/xuckless">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2CB67D&center=true&vCenter=true&width=640&lines=Zig+server+framework+%E2%86%92+HTTP%2F1%2C+HTTP%2F2%2C+HTTP%2F3%2C+gRPC;Rust+image+engine+%E2%86%92+photo+apps+on+macOS+%26+Windows;A+coding+agent+for+every+model+on+OpenRouter;Systems+%C2%B7+Backend+%C2%B7+Native+apps" alt="Typing animation"/>
@@ -121,4 +121,4 @@ made to compete with opencode and the other open-source harnesses.
 <img src="https://skillicons.dev/icons?i=zig,rust,c,ts,go,cs,py,dart,flutter,react,nextjs,electron,dotnet,postgres,redis,supabase,docker,linux,cloudflare,wasm&perline=10" alt="Tech stack"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:f7a41d,50:2cb67d,100:7f5af0&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
