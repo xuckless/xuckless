@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/anole"><img src="https://raw.githubusercontent.com/xuckless/anole/main/assets/banner.png" alt="Anole"/></a>
+<a href="https://github.com/xuckless/anole"><img src="assets/anole.webp" width="100%" alt="Anole"/></a>
 
 ### 🦎 [Anole](https://github.com/xuckless/anole)
 A Zig backend framework and a native server engine for Node and Python.
@@ -35,7 +35,7 @@ A Zig backend framework and a native server engine for Node and Python.
 <img src="https://img.shields.io/badge/benchmarked-HttpArena-e45858?style=flat-square"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://engine.pixlfoundation.com"><img src="https://raw.githubusercontent.com/xuckless/pixl-web/main/public/engine/og.png" alt="PIXL Engine"/></a>
+<a href="https://engine.pixlfoundation.com"><img src="assets/pixl-engine.webp" width="100%" alt="PIXL Engine"/></a>
 
 ### 🎞️ [PIXL Engine](https://engine.pixlfoundation.com)
 A Rust image engine that never guesses: every call returns a receipt of what it did.
@@ -61,14 +61,14 @@ made to compete with opencode and the other open-source harnesses.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/pixl-playroom"><img src="https://raw.githubusercontent.com/xuckless/pixl-web/main/public/playroom/shots/develop.webp" alt="Pixl Playroom"/></a>
+<a href="https://github.com/xuckless/pixl-playroom"><img src="assets/playroom.webp" width="100%" alt="Pixl Playroom"/></a>
 
 **[Pixl Playroom](https://github.com/xuckless/pixl-playroom)** · a Lightroom-style photo editor, no subscription<br/>
 <img src="https://img.shields.io/badge/public%20beta-macOS%20%C2%B7%20Windows-2cb67d?style=flat-square"/>
 <a href="https://playroom.pixlfoundation.com"><img src="https://img.shields.io/badge/website-%E2%86%92-7f5af0?style=flat-square"/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/everyai-mono"><img src="https://raw.githubusercontent.com/xuckless/everyai-mono/main/docs/readme/console.webp" alt="EveryAI"/></a>
+<a href="https://github.com/xuckless/everyai-mono"><img src="assets/everyai.webp" width="100%" alt="EveryAI"/></a>
 
 **[EveryAI](https://github.com/xuckless/everyai-mono)** · a Claude Code / Codex-style coding agent for every OpenRouter model<br/>
 <img src="https://img.shields.io/badge/Flutter-6%20platforms-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -77,13 +77,15 @@ made to compete with opencode and the other open-source harnesses.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/space-pixl"><img src="https://raw.githubusercontent.com/xuckless/space-pixl/main/docs/screenshots/optimise-preview.webp" alt="Space Pixl"/></a>
+<a href="https://github.com/xuckless/skink"><img src="assets/skink.webp" width="100%" alt="Skink"/></a>
 
-**[Space Pixl](https://github.com/xuckless/space-pixl)** · shrink a photo library, never touch the originals<br/>
-<a href="https://github.com/xuckless/space-pixl/releases/latest"><img src="https://img.shields.io/github/v/release/xuckless/space-pixl?style=flat-square&color=2cb67d&label=download"/></a>
+**[Skink](https://github.com/xuckless/skink)** · a modeless terminal code editor: Micro's keys, LSP, git, a real terminal and AI agents (ACP)<br/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<a href="https://github.com/xuckless/skink/releases/latest"><img src="https://img.shields.io/github/v/release/xuckless/skink?style=flat-square&color=2cb67d&label=release"/></a>
+<a href="https://skink.cc"><img src="https://img.shields.io/badge/website-%E2%86%92-7f5af0?style=flat-square"/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/TicTacToeUltimate"><img src="https://raw.githubusercontent.com/xuckless/TicTacToeUltimate/main/deploy/web/static/og-image.png" alt="Tic Tac Toe Ultimate"/></a>
+<a href="https://github.com/xuckless/TicTacToeUltimate"><img src="assets/tictactoe.webp" width="100%" alt="Tic Tac Toe Ultimate"/></a>
 
 **[Tic Tac Toe Ultimate](https://github.com/xuckless/TicTacToeUltimate)** · real-time ranked PvP<br/>
 <img src="https://img.shields.io/badge/.NET-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -93,14 +95,14 @@ made to compete with opencode and the other open-source harnesses.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/money-insighter"><img src="https://raw.githubusercontent.com/xuckless/money-insighter/main/docs/assets/shots/03-overview.png" alt="Money Insighter"/></a>
+<a href="https://github.com/xuckless/money-insighter"><img src="assets/money-insighter.webp" width="100%" alt="Money Insighter"/></a>
 
 **[Money Insighter](https://github.com/xuckless/money-insighter)** · local-first personal finance<br/>
 <img src="https://img.shields.io/badge/Electron-Go-47848F?style=flat-square&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postgres-embedded-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xuckless/quikresume"><img src="https://raw.githubusercontent.com/xuckless/quikresume/main/docs/media/preview-pane.png" alt="quikResume"/></a>
+<a href="https://github.com/xuckless/quikresume"><img src="assets/quikresume.webp" width="100%" alt="quikResume"/></a>
 
 **[quikResume](https://github.com/xuckless/quikresume)** · one library, a tailored résumé per job<br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
