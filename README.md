@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Syed Ali"/>
 
-<img src="assets/typing.svg" width="100%" alt="Zig servers: HTTP/3 &amp; gRPC / Rust image engine → photo apps / A coding agent for every model / Systems · Backend · Native apps"/>
+<img src="assets/typing.svg" width="100%" alt="Systems · Backend · Frontend / Fast backends, from scratch / UIs people enjoy using / Desktop, web and mobile apps"/>
 
 <br/>
 
@@ -17,34 +17,8 @@
 
 ## ⚙️ Engines
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/anole"><img src="assets/anole.webp" width="100%" alt="Anole"/></a>
-
-### 🦎 [Anole](https://github.com/xuckless/anole)
-A Zig backend framework and a native server engine for Node and Python.
-
-<img src="https://img.shields.io/github/v/release/xuckless/anole?style=flat-square&color=2cb67d&label=release"/>
-<img src="https://img.shields.io/badge/HTTP%2F3-QUIC-7f5af0?style=flat-square"/>
-<img src="https://img.shields.io/badge/gRPC-WebSockets-7f5af0?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebTransport-7f5af0?style=flat-square"/>
-<img src="https://img.shields.io/badge/eBPF-io__uring-f7a41d?style=flat-square"/>
-<img src="https://img.shields.io/badge/benchmarked-HttpArena-e45858?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<a href="https://engine.pixlfoundation.com"><img src="assets/pixl-engine.webp" width="100%" alt="PIXL Engine"/></a>
-
-### 🎞️ [PIXL Engine](https://engine.pixlfoundation.com)
-A Rust image engine that never guesses: every call returns a receipt of what it did.
-
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPU-WGSL-7f5af0?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAW%20%C2%B7%20JPEG%20XL%20%C2%B7%20AVIF-2cb67d?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node-binding-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</td>
-</tr>
-</table>
+- 🦎 **[Anole](https://github.com/xuckless/anole)** — Zig backend framework: REST, WebSockets, WebTransport and gRPC over HTTP/1.1, /2 and /3, with TLS and auth built in · <sub>`Zig` `QUIC` `io_uring` · [docs](https://xuckless.github.io/anole/)</sub>
+- 🎞️ **[PIXL Engine](https://engine.pixlfoundation.com)** — Rust image engine that never guesses: every call returns a receipt of what it did · <sub>`Rust` `WGSL` `RAW · JPEG XL · AVIF`</sub>
 
 ## 🤖 AI agents
 
@@ -54,60 +28,34 @@ made to compete with opencode and the other open-source harnesses.
 
 <p><img src="https://img.shields.io/badge/agentic%20workflows-7f5af0?style=for-the-badge"/> <img src="https://img.shields.io/badge/prompt%20engineering-2cb67d?style=for-the-badge"/> <img src="https://img.shields.io/badge/harness%20from%20scratch-f7a41d?style=for-the-badge"/> <img src="https://img.shields.io/badge/every%20model-OpenRouter-6467F2?style=for-the-badge"/></p>
 
-## 🚀 Built on top
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/pixl-playroom"><img src="assets/playroom.webp" width="100%" alt="Pixl Playroom"/></a>
+**Apps**
+- 📸 **[Pixl Playroom](https://github.com/xuckless/pixl-playroom)** — Lightroom-style photo editor with pro color grading, no subscription · <sub>`PIXL` `public beta` · [site](https://playroom.pixlfoundation.com)</sub>
+- 🗜️ **[Space Pixl](https://github.com/xuckless/space-pixl)** — reclaim storage by re-encoding your photo library with PIXL · <sub>`PIXL` · [site](https://space.pixlfoundation.com)</sub>
+- 🤖 **[EveryAI](https://github.com/xuckless/everyai-mono)** — Claude Code / Codex-style coding agent for every OpenRouter model, BYOK · <sub>`Flutter` `Anole`</sub>
+- 🦎 **[Skink](https://github.com/xuckless/skink)** — modeless terminal code editor: Micro's keys, LSP, git, a real terminal and AI agents (ACP) · <sub>`Rust` · [site](https://skink.cc)</sub>
+- 🌐 **[Wubble](https://github.com/xuckless/wubble)** — Chromium-based browser with vertical tabs, Spaces and split view, GPU-composited glass UI · <sub>`Rust` `Slint` · [site](https://wubble.cc)</sub>
+- ✉️ **[Everymail](https://github.com/xuckless/everymail)** — mail client for every inbox, with agents you control · <sub>`Rust` `early`</sub>
+- 🎤 **[Grain](https://github.com/xuckless/grain)** — stem separation, karaoke with live pitch, a Melodyne-style pitch editor and local AI production · <sub>`Rust` `Svelte`</sub>
+- 📚 **[Manga Translator](https://github.com/xuckless/manga-translator)** — self-hosted: finds balloons, translates in context with Claude, re-letters English to fit · <sub>`Python`</sub>
+- 📄 **[quikResume](https://github.com/xuckless/quikresume)** — one library, a tailored résumé per job, with an AI assistant · <sub>`Next.js` `Typst WASM` · [site](https://quikresume.vercel.app)</sub>
+- 💸 **[Money Insighter](https://github.com/xuckless/money-insighter)** — local-first personal finance: every account in one ledger, with graphs · <sub>`Electron` `Go` `Postgres`</sub>
+- 🚌 **[Tranzit](https://github.com/xuckless/tranzit)** — Calgary transit, routed and tracked in real time · <sub>`Expo` `Go` `OpenTripPlanner`</sub>
 
-**[Pixl Playroom](https://github.com/xuckless/pixl-playroom)** · a Lightroom-style photo editor, no subscription<br/>
-<img src="https://img.shields.io/badge/public%20beta-macOS%20%C2%B7%20Windows-2cb67d?style=flat-square"/>
-<a href="https://playroom.pixlfoundation.com"><img src="https://img.shields.io/badge/website-%E2%86%92-7f5af0?style=flat-square"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/everyai-mono"><img src="assets/everyai.webp" width="100%" alt="EveryAI"/></a>
+**Games**
+- 👾 **[gorescii](https://github.com/xuckless/gorescii)** — old-school FPS drawn in ASCII in your terminal, no dependencies · <sub>`C++20`</sub>
+- ❌ **[Tic Tac Toe Ultimate](https://github.com/xuckless/TicTacToeUltimate)** — pieces vanish, every game ends in a win; real-time ranked PvP · <sub>`.NET` `SignalR` `Go bots` · [play](https://tictactoeultimate.alidirect.dev)</sub>
+- 👑 **[The Desired Path](https://github.com/xuckless/the-desired-path)** — a court of petitions and consequences, as a visual novel · <sub>`Java`</sub>
 
-**[EveryAI](https://github.com/xuckless/everyai-mono)** · a Claude Code / Codex-style coding agent for every OpenRouter model<br/>
-<img src="https://img.shields.io/badge/Flutter-6%20platforms-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/server-Anole-f7a41d?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/skink"><img src="assets/skink.webp" width="100%" alt="Skink"/></a>
+**Linux hardware tools** <sub>— browser GUI + CLI, unofficial</sub>
+- 🖱️ **[mousectl](https://github.com/xuckless/mousectl)** — Instant A704 mouse: remapping, macros, DPI, RGB
+- ⌨️ **[deerctl](https://github.com/xuckless/deerctl)** — Drunkdeer magnetic keyboards (G65, A75…), Linux and macOS
+- 🌀 **[msictl](https://github.com/xuckless/msictl)** — MSI Mystic Light RGB, fan curves, sensors and CPU power limits
 
-**[Skink](https://github.com/xuckless/skink)** · a modeless terminal code editor: Micro's keys, LSP, git, a real terminal and AI agents (ACP)<br/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<a href="https://github.com/xuckless/skink/releases/latest"><img src="https://img.shields.io/github/v/release/xuckless/skink?style=flat-square&color=2cb67d&label=release"/></a>
-<a href="https://skink.cc"><img src="https://img.shields.io/badge/website-%E2%86%92-7f5af0?style=flat-square"/></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/TicTacToeUltimate"><img src="assets/tictactoe.webp" width="100%" alt="Tic Tac Toe Ultimate"/></a>
-
-**[Tic Tac Toe Ultimate](https://github.com/xuckless/TicTacToeUltimate)** · real-time ranked PvP<br/>
-<img src="https://img.shields.io/badge/.NET-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/bots-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<a href="https://tictactoeultimate.alidirect.dev"><img src="https://img.shields.io/badge/play-%E2%86%92-e45858?style=flat-square"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/money-insighter"><img src="assets/money-insighter.webp" width="100%" alt="Money Insighter"/></a>
-
-**[Money Insighter](https://github.com/xuckless/money-insighter)** · local-first personal finance<br/>
-<img src="https://img.shields.io/badge/Electron-Go-47848F?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgres-embedded-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/xuckless/quikresume"><img src="assets/quikresume.webp" width="100%" alt="quikResume"/></a>
-
-**[quikResume](https://github.com/xuckless/quikresume)** · one library, a tailored résumé per job<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typst-WASM-239DAD?style=flat-square&logo=typst&logoColor=white"/>
-</td>
-</tr>
-</table>
+**Robotics & coursework**
+- 🚗 **[ros2-vslam](https://github.com/xuckless/ros2-vslam)** — lane-aware traffic-sign navigation for the AgileX LIMO with a self-trained YOLOv8 · <sub>`ROS 2` `Python`</sub>
+- ✈️ **[Demo Airline](https://github.com/xuckless/demo-airline)** · **[Gridworld Solver](https://github.com/xuckless/gridworld-solver)** · **[Futoshiki Solver](https://github.com/xuckless/futoshiki-puzzle-solver)** · **[Nachos OS](https://github.com/xuckless/COSC-3407-projects)**
 
 ## 🤝 Open source
 
