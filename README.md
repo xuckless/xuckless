@@ -17,8 +17,18 @@
 
 ## ⚙️ Engines
 
-- <img src="assets/icons/anole.svg" width="18" height="18" alt=""/> **[Anole](https://github.com/xuckless/anole)** — Zig backend framework: REST, WebSockets, WebTransport and gRPC over HTTP/1.1, /2 and /3, with TLS and auth built in · <sub>`Zig` `QUIC` `io_uring` · [docs](https://xuckless.github.io/anole/)</sub>
-- <img src="assets/icons/pixl-engine.svg" width="18" height="18" alt=""/> **[PIXL Engine](https://engine.pixlfoundation.com)** — Rust image engine that never guesses: every call returns a receipt of what it did · <sub>`Rust` `WGSL` `RAW · JPEG XL · AVIF`</sub>
+<table>
+<tr>
+<td align="center" width="44"><img src="assets/icons/anole.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/anole"><b>Anole</b></a></td>
+<td>Zig backend framework: REST, WebSockets, WebTransport and gRPC over HTTP/1.1, /2 and /3, with TLS and auth built in<br/><code>Zig</code> <code>QUIC</code> <code>io_uring</code> · <a href="https://xuckless.github.io/anole/">docs</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/pixl-engine.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://engine.pixlfoundation.com"><b>PIXL&nbsp;Engine</b></a></td>
+<td>Rust image engine that never guesses: every call returns a receipt of what it did<br/><code>Rust</code> <code>WGSL</code> <code>RAW · JPEG XL · AVIF</code></td>
+</tr>
+</table>
 
 ## 🤖 AI agents
 
@@ -30,32 +40,120 @@ made to compete with opencode and the other open-source harnesses.
 
 ## 🚀 Projects
 
-**Apps**
-- <img src="assets/icons/pixl-playroom.svg" width="18" height="18" alt=""/> **[Pixl Playroom](https://github.com/xuckless/pixl-playroom)** — Lightroom-style photo editor with pro color grading, no subscription · <sub>`PIXL` `public beta` · [site](https://playroom.pixlfoundation.com)</sub>
-- <img src="assets/icons/space-pixl.svg" width="18" height="18" alt=""/> **[Space Pixl](https://github.com/xuckless/space-pixl)** — reclaim storage by re-encoding your photo library with PIXL · <sub>`PIXL` · [site](https://space.pixlfoundation.com)</sub>
-- <img src="assets/icons/everyai.svg" width="18" height="18" alt=""/> **[EveryAI](https://github.com/xuckless/everyai-mono)** — Claude Code / Codex-style coding agent for every OpenRouter model, BYOK · <sub>`Flutter` `Anole`</sub>
-- <img src="assets/icons/skink.svg" width="18" height="18" alt=""/> **[Skink](https://github.com/xuckless/skink)** — modeless terminal code editor: Micro's keys, LSP, git, a real terminal and AI agents (ACP) · <sub>`Rust` · [site](https://skink.cc)</sub>
-- <img src="assets/icons/wubble.svg" width="18" height="18" alt=""/> **[Wubble](https://github.com/xuckless/wubble)** — Chromium-based browser with vertical tabs, Spaces and split view, GPU-composited glass UI · <sub>`Rust` `Slint` · [site](https://wubble.cc)</sub>
-- <img src="assets/icons/everymail.svg" width="18" height="18" alt=""/> **[Everymail](https://github.com/xuckless/everymail)** — mail client for every inbox, with agents you control · <sub>`Rust` `early`</sub>
-- <img src="assets/icons/grain.png" width="18" height="18" alt=""/> **[Grain](https://github.com/xuckless/grain)** — stem separation, karaoke with live pitch, a Melodyne-style pitch editor and local AI production · <sub>`Rust` `Svelte`</sub>
-- <img src="assets/icons/manga-translator.svg" width="18" height="18" alt=""/> **[Manga Translator](https://github.com/xuckless/manga-translator)** — self-hosted: finds balloons, translates in context with Claude, re-letters English to fit · <sub>`Python`</sub>
-- <img src="assets/icons/quikresume.png" width="18" height="18" alt=""/> **[quikResume](https://github.com/xuckless/quikresume)** — one library, a tailored résumé per job, with an AI assistant · <sub>`Next.js` `Typst WASM` · [site](https://quikresume.vercel.app)</sub>
-- <img src="assets/icons/money-insighter.png" width="18" height="18" alt=""/> **[Money Insighter](https://github.com/xuckless/money-insighter)** — local-first personal finance: every account in one ledger, with graphs · <sub>`Electron` `Go` `Postgres`</sub>
-- <img src="assets/icons/tranzit.png" width="18" height="18" alt=""/> **[Tranzit](https://github.com/xuckless/tranzit)** — Calgary transit, routed and tracked in real time · <sub>`Expo` `Go` `OpenTripPlanner`</sub>
+### Apps
 
-**Games**
-- <img src="assets/icons/gorescii.svg" width="18" height="18" alt=""/> **[gorescii](https://github.com/xuckless/gorescii)** — old-school FPS drawn in ASCII in your terminal, no dependencies · <sub>`C++20`</sub>
-- <img src="assets/icons/tictactoe.svg" width="18" height="18" alt=""/> **[Tic Tac Toe Ultimate](https://github.com/xuckless/TicTacToeUltimate)** — pieces vanish, every game ends in a win; real-time ranked PvP · <sub>`.NET` `SignalR` `Go bots` · [play](https://tictactoeultimate.alidirect.dev)</sub>
-- <img src="assets/icons/the-desired-path.svg" width="18" height="18" alt=""/> **[The Desired Path](https://github.com/xuckless/the-desired-path)** — a court of petitions and consequences, as a visual novel · <sub>`Java`</sub>
+<table>
+<tr>
+<td align="center" width="44"><img src="assets/icons/pixl-playroom.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/pixl-playroom"><b>Pixl&nbsp;Playroom</b></a></td>
+<td>Lightroom-style photo editor with pro color grading, no subscription<br/><code>PIXL</code> <code>public beta</code> · <a href="https://playroom.pixlfoundation.com">site</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/space-pixl.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/space-pixl"><b>Space&nbsp;Pixl</b></a></td>
+<td>Reclaim storage by re-encoding your photo library with PIXL<br/><code>PIXL</code> · <a href="https://space.pixlfoundation.com">site</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/everyai.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/everyai-mono"><b>EveryAI</b></a></td>
+<td>Claude Code / Codex-style coding agent for every OpenRouter model, BYOK<br/><code>Flutter</code> <code>Anole</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/skink.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/skink"><b>Skink</b></a></td>
+<td>Modeless terminal code editor: Micro's keys, LSP, git, a real terminal and AI agents (ACP)<br/><code>Rust</code> · <a href="https://skink.cc">site</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/wubble.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/wubble"><b>Wubble</b></a></td>
+<td>Chromium-based browser with vertical tabs, Spaces and split view, GPU-composited glass UI<br/><code>Rust</code> <code>Slint</code> · <a href="https://wubble.cc">site</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/everymail.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/everymail"><b>Everymail</b></a></td>
+<td>Mail client for every inbox, with agents you control<br/><code>Rust</code> <code>early</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/grain.png" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/grain"><b>Grain</b></a></td>
+<td>Stem separation, karaoke with live pitch, a Melodyne-style pitch editor and local AI production<br/><code>Rust</code> <code>Svelte</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/manga-translator.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/manga-translator"><b>Manga&nbsp;Translator</b></a></td>
+<td>Self-hosted: finds balloons, translates in context with Claude, re-letters English to fit<br/><code>Python</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/quikresume.png" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/quikresume"><b>quikResume</b></a></td>
+<td>One library, a tailored résumé per job, with an AI assistant<br/><code>Next.js</code> <code>Typst WASM</code> · <a href="https://quikresume.vercel.app">site</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/money-insighter.png" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/money-insighter"><b>Money&nbsp;Insighter</b></a></td>
+<td>Local-first personal finance: every account in one ledger, with graphs<br/><code>Electron</code> <code>Go</code> <code>Postgres</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/tranzit.png" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/tranzit"><b>Tranzit</b></a></td>
+<td>Calgary transit, routed and tracked in real time<br/><code>Expo</code> <code>Go</code> <code>OpenTripPlanner</code></td>
+</tr>
+</table>
 
-**Linux hardware tools** <sub>— browser GUI + CLI, unofficial</sub>
-- 🖱️ **[mousectl](https://github.com/xuckless/mousectl)** — Instant A704 mouse: remapping, macros, DPI, RGB
-- ⌨️ **[deerctl](https://github.com/xuckless/deerctl)** — Drunkdeer magnetic keyboards (G65, A75…), Linux and macOS
-- 🌀 **[msictl](https://github.com/xuckless/msictl)** — MSI Mystic Light RGB, fan curves, sensors and CPU power limits
+### Games
 
-**Robotics & coursework**
-- 🚗 **[ros2-vslam](https://github.com/xuckless/ros2-vslam)** — lane-aware traffic-sign navigation for the AgileX LIMO with a self-trained YOLOv8 · <sub>`ROS 2` `Python`</sub>
-- <img src="assets/icons/demo-airline.svg" width="18" height="18" alt=""/> **[Demo Airline](https://github.com/xuckless/demo-airline)** · **[Gridworld Solver](https://github.com/xuckless/gridworld-solver)** · **[Futoshiki Solver](https://github.com/xuckless/futoshiki-puzzle-solver)** · **[Nachos OS](https://github.com/xuckless/COSC-3407-projects)**
+<table>
+<tr>
+<td align="center" width="44"><img src="assets/icons/gorescii.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/gorescii"><b>gorescii</b></a></td>
+<td>Old-school FPS drawn in ASCII in your terminal, no dependencies<br/><code>C++20</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/tictactoe.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/TicTacToeUltimate"><b>Tic&nbsp;Tac&nbsp;Toe&nbsp;Ultimate</b></a></td>
+<td>Pieces vanish, every game ends in a win; real-time ranked PvP<br/><code>.NET</code> <code>SignalR</code> <code>Go bots</code> · <a href="https://tictactoeultimate.alidirect.dev">play</a></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/the-desired-path.svg" width="28" height="28" alt=""/></td>
+<td><a href="https://github.com/xuckless/the-desired-path"><b>The&nbsp;Desired&nbsp;Path</b></a></td>
+<td>A court of petitions and consequences, as a visual novel<br/><code>Java</code></td>
+</tr>
+</table>
+
+### Linux hardware tools <sub>— browser GUI + CLI, unofficial</sub>
+
+<table>
+<tr>
+<td align="center" width="44">🖱️</td>
+<td><a href="https://github.com/xuckless/mousectl"><b>mousectl</b></a></td>
+<td>Instant A704 mouse: remapping, macros, DPI, RGB</td>
+</tr>
+<tr>
+<td align="center" width="44">⌨️</td>
+<td><a href="https://github.com/xuckless/deerctl"><b>deerctl</b></a></td>
+<td>Drunkdeer magnetic keyboards (G65, A75…), Linux and macOS</td>
+</tr>
+<tr>
+<td align="center" width="44">🌀</td>
+<td><a href="https://github.com/xuckless/msictl"><b>msictl</b></a></td>
+<td>MSI Mystic Light RGB, fan curves, sensors and CPU power limits</td>
+</tr>
+</table>
+
+### Robotics & coursework
+
+<table>
+<tr>
+<td align="center" width="44">🚗</td>
+<td><a href="https://github.com/xuckless/ros2-vslam"><b>ros2-vslam</b></a></td>
+<td>Lane-aware traffic-sign navigation for the AgileX LIMO with a self-trained YOLOv8<br/><code>ROS 2</code> <code>Python</code></td>
+</tr>
+<tr>
+<td align="center" width="44"><img src="assets/icons/demo-airline.svg" width="28" height="28" alt=""/></td>
+<td><b>Coursework</b></td>
+<td><a href="https://github.com/xuckless/demo-airline"><b>Demo Airline</b></a> · <a href="https://github.com/xuckless/gridworld-solver"><b>Gridworld Solver</b></a> · <a href="https://github.com/xuckless/futoshiki-puzzle-solver"><b>Futoshiki Solver</b></a> · <a href="https://github.com/xuckless/COSC-3407-projects"><b>Nachos OS</b></a></td>
+</tr>
+</table>
 
 ## 🤝 Open source
 
